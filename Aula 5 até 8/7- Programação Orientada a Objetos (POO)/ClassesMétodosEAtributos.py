@@ -9,4 +9,3 @@ class Pessoa:
 # use o valor da própria classe
 # use o valor desta mesma classe
 # this
-

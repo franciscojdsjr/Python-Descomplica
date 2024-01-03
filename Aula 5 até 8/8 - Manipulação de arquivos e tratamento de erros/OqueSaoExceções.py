@@ -21,3 +21,4 @@ except ZeroDivisionError:
     print("Erro: Divisão por zero não é permitida!")
 except ValueError:
     print("Erro: Certifique-se de digitar números válidos.")
+
